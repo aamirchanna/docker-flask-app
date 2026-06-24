@@ -109,6 +109,13 @@ docker-compose down
 ```
 
 ## Screenshots
+<img width="1366" height="728" alt="Instances _ EC2 _ us-east-1 - Google Chrome 6_24_2026 2_45_07 PM" src="https://github.com/user-attachments/assets/8fdd9504-8151-41b9-bda5-e31d7d8bd50b" />
+
+<img width="1366" height="728" alt="EC2 Instance Connect _ us-east-1 - Google Chrome 6_24_2026 2_43_10 PM" src="https://github.com/user-attachments/assets/c939ba9e-d5c6-487a-ac32-37c50514b5ed" />
+<img width="1366" height="728" alt="Instances _ EC2 _ us-east-1 - Google Chrome 6_24_2026 2_44_42 PM" src="https://github.com/user-attachments/assets/467749b4-82b8-4557-8d9f-1d7b19e7a3e3" />
+
+<img width="1366" height="728" alt="Databases _ Aurora and RDS _ us-east-1 - Google Chrome 6_24_2026 2_45_39 PM" src="https://github.com/user-attachments/assets/aaa9fd39-25d1-45db-b797-535703d86b27" />
+
 
 
 
