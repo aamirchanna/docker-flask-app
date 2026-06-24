@@ -110,13 +110,7 @@ docker-compose down
 
 ## Screenshots
 
-*(Add screenshots here:)*
-- *`sudo docker ps` — containers running on EC2*
-- *`curl http://localhost/health` — `{"status":"ok"}` response*
-- *`curl http://localhost/todos` — `[]` response*
-- *AWS Console — EC2 instance running*
-- *AWS Console — RDS database*
-- *AWS Console — ECR repository with image*
+
 
 ---
 
